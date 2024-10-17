@@ -5,3 +5,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] world domination
+- [ ] eat cookies
+- [ ] seize
